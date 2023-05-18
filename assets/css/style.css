@@ -13,7 +13,7 @@
     --cor-fonte-padrao: #000000;
     --cor-fonte-nav: #F2ECE9;
     --cor-fonte-by: rgb(241, 241, 241);
-    --cor-fonte-button-hover: hwb(60 0% 0%);
+    --cor-fonte-button-hover: hwb(0 95% 5%);
 
     /* Fontes da Página */
     --lato-roboto: 'lato', Roboto;
@@ -22,7 +22,7 @@
     /* Cores de Efeito */
     --cor-sombra: #C0C0C0;
     --cor-sombra-hover: #191970;
-    --cor-button-hover: #191970;
+    --cor-button-hover: #05050a;
     --cor-placeholder-effect: #191970;
 }
 
